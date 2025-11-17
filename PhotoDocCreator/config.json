@@ -1,0 +1,41 @@
+{
+  "screenshots_folder": "C:/Users/jojo/Documents/tf/1",
+  "word_file": "C:/Users/jojo/Documents/tf/241.docx",
+  "image_width": 6.0,
+  "image_height": 9.0,
+  "images_per_page": 2,
+  "officer_name": "ФИО",
+  "officer_rank": "Звание",
+  "officer_position": "Должность",
+  "department_name": "Подразделение",
+  "photo_table_title": "ФОТОТАБЛИЦА\nк протоколу осмотра предметов от __.__.____",
+  "font_family": "Times New Roman",
+  "font_size": 12,
+  "font_bold": false,
+  "sort_method": "name_asc",
+  "manual_sort_order": [],
+  "caption_rules": [],
+  "footer_department": "Подразделение",
+  "enable_footer": true,
+  "multi_folder_mode": true,
+  "multi_folder_sort_method": "name_asc",
+  "folder_sequence": [
+    {
+      "path": "C:/Users/jojo/Documents/tf/1",
+      "caption_rules": [],
+      "images": [
+        "004.jpg",
+        "005.jpg",
+        "006.jpg"
+      ]
+    },
+    {
+      "path": "C:/Users/jojo/Documents/tf/2",
+      "caption_rules": [],
+      "images": [
+        "17326205117060.jpg",
+        "pics24.jpg"
+      ]
+    }
+  ]
+}

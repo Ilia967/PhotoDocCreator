@@ -1,0 +1,5 @@
+auto-py-to-exe==2.48.1
+pillow==10.0.0        
+python-docx==1.1.0
+opencv-python==4.9.0.80
+pyinstaller==5.13.0
